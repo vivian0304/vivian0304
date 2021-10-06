@@ -46,6 +46,8 @@ enjoy!
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vivian0304)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://github.com/vivian0304/vivian0304/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ## My history
