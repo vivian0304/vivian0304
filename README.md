@@ -24,10 +24,10 @@ enjoy!
 - goal
 - ✨Magic ✨
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dhwmd08">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=vivian0304">
 
 
-![GitHub last commit](https://img.shields.io/github/last-commit/SEUNGYEOPOH/SEUNGYEOPOH.svg)<br/>
+![GitHub last commit](https://img.shields.io/github/last-commit/vivian0304/vivian0304.svg)<br/>
 <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AngularJs-black?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a><br/>
