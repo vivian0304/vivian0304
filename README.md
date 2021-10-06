@@ -40,7 +40,6 @@ enjoy!
 <img src="https://img.shields.io/badge/C-black?style=flat-square&logo=Java&logoColor=white"/></a>
 
 
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vivian0304)](https://github.com/anuraghazra/github-readme-stats)
 
 ![snake gif](https://github.com/vivian0304/vivian0304/blob/output/github-contribution-grid-snake.svg)
