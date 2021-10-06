@@ -49,7 +49,6 @@ enjoy!
 ![](https://github.com/vivian0304/vivian0304/edit/output/github-contribution-grid-snake.svg)
 
 
-
 ## My history
 
 - 1999 : born in seoul
