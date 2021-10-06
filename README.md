@@ -21,10 +21,6 @@ This is my wonderful repository
 
 enjoy!
 
-- My history
-- goal
-- ✨Magic ✨
-
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=vivian0304">
 
 
@@ -49,6 +45,9 @@ enjoy!
 
 
 
+- My history
+- goal
+- ✨Magic ✨
 
 ## My history
 
