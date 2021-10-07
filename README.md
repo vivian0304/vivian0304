@@ -24,20 +24,20 @@ enjoy!
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=vivian0304">
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/vivian0304/vivian0304.svg)<br/>
-<img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AngularJs-black?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AngularJs-red?style=flat-square&logo=Angular&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a><br/>
-<img src="https://img.shields.io/badge/jQuery-black?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/eclipse-black?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/jQuery-blue?style=flat-square&logo=jQuery&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/eclipse-purple?style=flat-square&logo=eclipse&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe Dreamweaver-FF61F6?style=flat-square&logo=Adobe Dreamweaver&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/spring-black?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Mysql-black?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/spring-green?style=flat-square&logo=spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Mysql-orange?style=flat-square&logo=Mysql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MariaDB-brown?style=flat-square&logo=MariaDB&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/C-black?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-purple?style=flat-square&logo=c&logoColor=white"/></a>
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vivian0304)](https://github.com/anuraghazra/github-readme-stats)
