@@ -61,6 +61,6 @@ enjoy!
 - 2018.02 : Graduation from Ewha Girls' High School
 - 2018.03 : Entering Korea Polyrechnic University
 - 2019.03 ~ 2020.02 : 10th GEN of SangSang Friends
-- 2021.06 ~ 2021.08 : heanasoft internship
+- 2021.06 ~ 2021.08 : haenasoft internship
 
 
