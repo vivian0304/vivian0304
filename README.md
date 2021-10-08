@@ -43,6 +43,8 @@ enjoy!
 
 <br>
 
+#
+
 <div align="center">
   <a href="https://github.com/vivian0304">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=vivian0304" />
@@ -53,10 +55,10 @@ enjoy!
 </div>
 
 ![snake gif](https://github.com/vivian0304/vivian0304/blob/output/github-contribution-grid-snake.svg)
-
-- My history
-- goal
-- ✨Magic ✨
+#
+#### - My history
+#### - goal
+#### - ✨Magic ✨
 
 ## My history
 
