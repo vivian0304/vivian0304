@@ -30,7 +30,7 @@ enjoy!
     <img src="https://img.shields.io/badge/AngularJs-red?style=flat-square&logo=Angular&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/jQuery-blue?style=flat-square&logo=jQuery&logoColor=white"/>
-    <img src="https://img.shields.io/badge/eclipse-purple?style=flat-square&logo=eclipse&logoColor=white"/>
+    <img src="https://img.shields.io/badge/eclipse-purple?style=flat-square&logo=eclipse&logoColor=white"/><br>
     <img src="https://img.shields.io/badge/Adobe Dreamweaver-FF61F6?style=flat-square&logo=Adobe Dreamweaver&logoColor=white"/>
     <img src="https://img.shields.io/badge/spring-green?style=flat-square&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Mysql-orange?style=flat-square&logo=Mysql&logoColor=white"/>
@@ -41,9 +41,11 @@ enjoy!
   </div>
 </div>
 
+<br>
+
 <div align="center">
   <a href="https://github.com/vivian0304">
-    <img align="center" style="margin-right:10px;" src="https://github-readme-stats.vercel.app/api?username=vivian0304" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vivian0304" />
   </a>
   <a href="https://github.com/vivian0304">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivian0304&langs_count=4" />
