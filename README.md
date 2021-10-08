@@ -39,8 +39,12 @@ enjoy!
 
 <img src="https://img.shields.io/badge/C-purple?style=flat-square&logo=c&logoColor=white"/></a>
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vivian0304)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/vivian0304">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vivian0304" />
+</a>
+<a href="https://github.com/vivian0304">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivian0304&langs_count=3" />
+</a>
 
 ![snake gif](https://github.com/vivian0304/vivian0304/blob/output/github-contribution-grid-snake.svg)
 
