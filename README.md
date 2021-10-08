@@ -38,13 +38,14 @@ enjoy!
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/C-purple?style=flat-square&logo=c&logoColor=white"/></a>
-
-<a href="https://github.com/vivian0304">
-  <img align="center" style="margin-right:10px;" src="https://github-readme-stats.vercel.app/api?username=vivian0304" />
-</a>
-<a href="https://github.com/vivian0304">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivian0304&langs_count=4" />
-</a>
+<div align="center">
+  <a href="https://github.com/vivian0304">
+    <img align="center" style="margin-right:10px;" src="https://github-readme-stats.vercel.app/api?username=vivian0304" />
+  </a>
+  <a href="https://github.com/vivian0304">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivian0304&langs_count=4" />
+  </a>
+</div>
 
 ![snake gif](https://github.com/vivian0304/vivian0304/blob/output/github-contribution-grid-snake.svg)
 
