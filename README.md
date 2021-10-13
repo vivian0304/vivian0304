@@ -69,7 +69,7 @@ enjoy!
 - 2015.02 : Graduation from Bulgwang Middle School
 - 2015.03 : Entering Ewha Girls' High School
 - 2018.02 : Graduation from Ewha Girls' High School
-- 2018.03 : Entering Korea Polyrechnic University
+- 2018.03 : Entering Korea Polytechnic University
 - 2019.03 ~ 2020.02 : 10th GEN of SangSang Friends
 - 2021.06 ~ 2021.08 : haenasoft internship
 
