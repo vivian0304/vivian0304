@@ -53,9 +53,3 @@ enjoy!
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivian0304&langs_count=4" />
   </a>
 </div>
-
-#
-#### - My history
-#### - goal
-#### - ✨Magic ✨
-
