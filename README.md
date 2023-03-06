@@ -54,23 +54,8 @@ enjoy!
   </a>
 </div>
 
-![snake gif](https://github.com/vivian0304/vivian0304/blob/output/github-contribution-grid-snake.svg)
 #
 #### - My history
 #### - goal
 #### - ✨Magic ✨
-
-## My history
-
-- 1999 : born in seoul
-- 2006.03 : Entering Bulgwang Elementary School
-- 2012.02 : Graduation from Bulgwang Elementary School
-- 2012.03 : Entering Bulgwang Middle School
-- 2015.02 : Graduation from Bulgwang Middle School
-- 2015.03 : Entering Ewha Girls' High School
-- 2018.02 : Graduation from Ewha Girls' High School
-- 2018.03 : Entering Korea Polytechnic University
-- 2019.03 ~ 2020.02 : 10th GEN of SangSang Friends
-- 2021.06 ~ 2021.08 : haenasoft internship
-
 
