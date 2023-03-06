@@ -31,7 +31,6 @@ enjoy!
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/jQuery-blue?style=flat-square&logo=jQuery&logoColor=white"/>
     <img src="https://img.shields.io/badge/eclipse-purple?style=flat-square&logo=eclipse&logoColor=white"/><br>
-    <img src="https://img.shields.io/badge/Adobe Dreamweaver-FF61F6?style=flat-square&logo=Adobe Dreamweaver&logoColor=white"/>
     <img src="https://img.shields.io/badge/spring-green?style=flat-square&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Mysql-orange?style=flat-square&logo=Mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/MariaDB-brown?style=flat-square&logo=MariaDB&logoColor=white"/><br><br>
