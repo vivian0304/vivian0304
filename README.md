@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h1>✨Introduce✨</h1>
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=vivian0304" />
-  <br> <br> 
+  <br> <br> <br>
   열심히 공부 중인 주니어 백엔드 개발자 박수현입니다!<br>
   원하는 주제를 가장 효율적인 방식으로 표현하고 싶어서<br>
   다양한 언어와 프레임워크를 공부하고 있습니다!<br>
@@ -63,8 +63,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white"/>
 </div>
 
-<br>
- 
+<br> <br> <br> 
+
+<div align="center">
+  <h1>🔭Github Info🔭</h1>
+</div>
+
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vivian0304" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivian0304&langs_count=4" />
