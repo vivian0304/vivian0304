@@ -15,7 +15,7 @@
   since i want to make a new project in the most efficient way.<br>
 </div>
 
-<br> <br> <br> <br> <br> 
+<br> <br> <br> <br>
 
 <div align="center">
   <h1>⚡Technical Skill⚡</h1>
