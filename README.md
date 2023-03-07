@@ -24,7 +24,7 @@ Thank you!
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=vivian0304" />
   
   <div align="left">
-    <img src="https://img.shields.io/github/last-commit/vivian0304/vivian0304.svg"/><br>
+    <img src="https://img.shields.io/github/last-commit/vivian0304/vivian0304.svg?style=for-the-badge"/><br>
     <h3>✨Language✨</h3>
     <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>
