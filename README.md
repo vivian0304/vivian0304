@@ -14,10 +14,11 @@
   <a href="https://study0304.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://study0304.tistory.com/"/>
   </a>
-  <br><br>
-  I'm Park Soohyun, a junior backend developer who's always studying hard :)<br>
-  I am studying various languages and frameworks<br>
-  since i want to make a new project in the most efficient way.<br>
+  <h4>
+    I'm Park Soohyun, a junior backend developer who's always studying hard :)<br>
+    I am studying various languages and frameworks<br>
+    since i want to make a new project in the most efficient way.<br>
+  </h4>
 </div>
 
 <br> <br> <br> <br>
