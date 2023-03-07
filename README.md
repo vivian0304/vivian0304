@@ -71,3 +71,5 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivian0304&langs_count=4" />
   </a>
 </div>
+
+![snake gif](https://github.com/vivian0304/vivian0304/blob/output/github-contribution-grid-snake.svg)
