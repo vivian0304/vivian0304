@@ -75,3 +75,5 @@ Here are some ideas to get you started:
 </div>
 
 ![snake gif](https://github.com/vivian0304/vivian0304/blob/output/github-contribution-grid-snake.svg)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
