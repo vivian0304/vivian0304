@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Soohyun%20Park&fontSize=90)
 
 <div align="center">
-  <img src="https://img.shields.io/github/last-commit/vivian0304/vivian0304.svg?style=for-the-badge"/><br>
+  <img src="https://img.shields.io/github/last-commit/vivian0304/vivian0304.svg?style=for-the-badge"/>
+  <a href="https://decorous-law-dd6.notion.site/4746ebad74a6434b96100a296dc56107">
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+  </a>
 </div>
 
 <div align="center">
@@ -15,7 +18,7 @@
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://study0304.tistory.com/"/>
   </a>
   <h4>
-    I'm Park Soohyun, a junior backend developer who's always studying hard :)<br>
+    I'm Park Soohyun, a junior backend developer who's always studying hard:)<br>
     I am studying various languages and frameworks<br>
     since i want to make a new project in the most efficient way.<br>
   </h4>
