@@ -71,6 +71,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivian0304&langs_count=4" />
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=vivian0304)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![snake gif](https://github.com/vivian0304/vivian0304/blob/output/github-contribution-grid-snake.svg)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
