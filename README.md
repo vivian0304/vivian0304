@@ -10,9 +10,9 @@
   <h3>Contant me!</h3>
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=vivian030434@gmail.com"/>
   <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://study0304.tistory.com/"/><br><br>
-  열심히 공부 중인 주니어 백엔드 개발자 박수현입니다!<br>
-  원하는 주제를 가장 효율적인 방식으로 표현하고 싶어서<br>
-  다양한 언어와 프레임워크를 공부하고 있습니다!<br>
+  I'm Park Soohyun, a junior backend developer who's always studying hard :)<br>
+  I am studying various languages and frameworks<br>
+  since i want to make a new project in the most efficient way.<br>
 </div>
 
 <br> <br> <br> <br> <br> 
