@@ -20,7 +20,7 @@
   <h4>
     I'm Park Soohyun, a junior backend developer who's always studying hard:)<br>
     I am studying various languages and frameworks<br>
-    since i want to make a new project in the most efficient way.<br>
+    since I want to make a new project in the most efficient way.<br>
   </h4>
 </div>
 
